@@ -1,0 +1,3 @@
+/home/araaf/workspace/opencv_workspace/opencv_1_readimage/CMakeFiles/rebuild_cache.dir
+/home/araaf/workspace/opencv_workspace/opencv_1_readimage/CMakeFiles/main.dir
+/home/araaf/workspace/opencv_workspace/opencv_1_readimage/CMakeFiles/edit_cache.dir

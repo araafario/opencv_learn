@@ -1,0 +1,3 @@
+/home/araaf/workspace/opencvbaru/CMakeFiles/rebuild_cache.dir
+/home/araaf/workspace/opencvbaru/CMakeFiles/Main.dir
+/home/araaf/workspace/opencvbaru/CMakeFiles/edit_cache.dir

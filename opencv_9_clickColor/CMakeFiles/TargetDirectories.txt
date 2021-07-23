@@ -1,0 +1,3 @@
+/home/araaf/workspace/opencv_workspace/opencv_9_clickColor/CMakeFiles/rebuild_cache.dir
+/home/araaf/workspace/opencv_workspace/opencv_9_clickColor/CMakeFiles/main.dir
+/home/araaf/workspace/opencv_workspace/opencv_9_clickColor/CMakeFiles/edit_cache.dir
